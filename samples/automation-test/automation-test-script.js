@@ -23,8 +23,8 @@ const kobitonServerConfig = {
 }
 
 const desiredCaps = {
-  sessionName: 'Automation Test Session',
-  sessionDescription: 'This is an example of automation testing of an Android application',
+  sessionName: 'Andorid Test',
+  sessionDescription: 'New try',
   deviceOrientation: deviceOrientation,
   captureScreenshots: captureScreenshots,
   deviceName: deviceName,
